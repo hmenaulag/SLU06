@@ -2,3 +2,4 @@ milk
 bread
 eggs
 champignon
+butter
